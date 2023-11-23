@@ -1,8 +1,9 @@
 ---
-Logo: image/leaf_256x256.png
+Logo: image/bdk.jpg
 Tagline: My portfolio.
 Social:
-    - title: Link till sidans github repo.
-      url: https://github.com/dbwebb-se/design-v3
-      icon: github
+  - title: Link till sidans github repo.
+    url: https://github.com/Pringelele/design
+    icon: fab fa-github
+    icon: fas fa-arrow-alt-circle-right
 ---
