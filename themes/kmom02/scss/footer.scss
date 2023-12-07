@@ -1,0 +1,23 @@
+.footer {
+    display: flex;
+    justify-content: space-between;
+    border-top: 1px solid $footer-color;
+    background-color: $footer-color;
+    overflow: hidden;
+    color: $white-color;
+    padding: 10px 0 10px 20px;
+}
+
+
+
+.footer .social {
+    font-size: 2rem;
+}
+
+.fab {
+    color: $white-color;
+}
+
+.fas {
+    color: $white-color;
+}
